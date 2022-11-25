@@ -1,0 +1,48 @@
+{
+  "Info": {
+    "image": "images.jpg",
+    "name": "Moeid Ahmed",
+    "description": "Internship in Allied Consultant as a professional learning experience that offers me meaningful, practical work related to a my field of study or career interest. This gives me an opportunity for career exploration and development, and to learn new skills.",
+
+    "skills": [
+      {
+        "name": "Html",
+        "more": "Flow Content, Sectioning Content,Heading Content,Interactive Content"
+      },
+      {
+        "name": "Css",
+        "more": "Inline CSS, Internal or Embedded CSS, External CSS"
+      },
+      {
+        "name": "Bootstrap",
+        "more": "Accordion, Alerts, Badges, Borders, Button Groups"
+      },
+      {
+        "name": "Tailwind",
+        "more": "Ready-to-use dropdowns, logins, modals"
+      },
+      {
+        "name": "JavaScript",
+        "more": "Dom, Loops, Conditional"
+      }
+    ],
+    "about": "Seeking challenging role as a web developer where my proficiency in the application of computer operators will be fully consumed to help the organization reach its objectives with excellence and ease.",
+    "education": [
+      {
+        "degree": "BS Computer Science",
+        "organization": "Government Collage University Faisalabad",
+        "year": "2017-2021"
+      },
+      {
+        "degree": "FSc(Pre Engeenering)",
+        "organization": "Government Islamia Collage Railway Road",
+        "year": "2015-2017"
+      },
+      {
+        "degree": "Matric (Computer Science)",
+        "organization": "Government Arif Higher Secondary School",
+        "year": "2013-2015"
+      }
+    ]
+  }
+}
